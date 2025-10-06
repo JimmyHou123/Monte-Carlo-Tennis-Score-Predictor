@@ -1,1 +1,1 @@
-[📄 Read the full PDF documentation](tennis_monte_carlo_paper.pdf)
+[📄 Read the Project Report](tennis_monte_carlo_paper.pdf)
